@@ -4,7 +4,7 @@ body{
     font-family: 'Roboto Slab', serif;
     font-size: 20px;
     line-height: 1.5;
-    margin: 0%;
+    margin: 0;
     }
 
 h1,h2 {color: #5543a5;}
@@ -19,17 +19,19 @@ h2  {font-size: 48px;
 
 a   {font-style: italic;}
 
-.foto-CV {
-    width: 300px;
-    border-radius: 20px;
-    float:right;
-    margin: 0;
-    }
-
 section{overflow: auto;
     padding: 20px 100px;
     border-top: 2px solid #b8abf3;
+
     }
+
+.foto-CV {
+    width: 300px;
+    float: right;
+    padding: 0 700px 0 0;
+    }
+
+
 
 footer{
     text-align: center;

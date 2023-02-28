@@ -11,7 +11,7 @@ h1,h2 {color: #5543a5;}
 
 h1  {font-size: 80px;
     text-align: center;
-    margin: 0%;
+    margin: 40px 0;
     }
 
 h2  {font-size: 48px;
@@ -25,16 +25,32 @@ section{overflow: auto;
 
     }
 
-.foto-CV {
+.foto-CV{
     width: 300px;
     float: right;
+    border-radius: 20px;
     padding: 0 700px 0 0;
+    overflow: auto;
     }
 
+table{
+    margin: 25px 0;
+    border-spacing: 0;
+    }
 
+td{
+    text-align: left;
+    }
+
+.sloupec{
+    text-align: right;
+    color: aqua;
+    padding-left: 50px;
+    }
 
 footer{
     text-align: center;
     background-color: #5543a5;
     color: white;
-}
+    }
+

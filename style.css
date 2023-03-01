@@ -22,7 +22,6 @@ a   {font-style: italic;}
 section{overflow: auto;
     padding: 20px 100px;
     border-top: 2px solid #b8abf3;
-
     }
 
 .foto-CV{
@@ -44,7 +43,6 @@ td{
 
 .sloupec{
     text-align: right;
-    color: aqua;
     padding-left: 50px;
     }
 

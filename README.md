@@ -2,6 +2,4 @@
 
 trenuju... 
 
-mám tam dvě chybky a nevím, jak je napravit, prosím o radu:
-    - sloupec v tabulce zarovnání vpravo
-    - ohraničení rámečku obrázku vpravo
+mám tam chybku a nevím, jak ji napravit, prosím o radu: ohraničení rámečku obrázku vpravo a jeho osunutí na střed, aniž by se mi změnil rámeček obrázku
